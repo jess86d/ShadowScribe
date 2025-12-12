@@ -1,0 +1,7 @@
+{
+  "name": "ShadowScribe GENESIS",
+  "description": "The ultimate AI-powered music production suite. Generate songs, sculpt vocals, design beats, and monetize your creations in one futuristic interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
